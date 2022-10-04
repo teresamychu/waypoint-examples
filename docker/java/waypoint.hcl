@@ -1,4 +1,4 @@
-project = "example-java"
+project = "polling-test-again"
 
 app "example-java" {
   build {
